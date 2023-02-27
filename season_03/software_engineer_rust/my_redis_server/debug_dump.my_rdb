@@ -1,0 +1,25 @@
+{
+    "key_value_pairs": {
+	"name": "Petar",
+	"age": 22
+    },
+    "lists": {
+	"list1": [
+	  "value1",
+	  "value2"
+	],
+	"list2": [
+	  "newvalue"
+	]
+    },
+    "hashes": {
+	"hash1": {
+	  "name": "Jordan",
+	  "age": 22,
+	  "name": "Petar"
+	},
+	"hash2": {
+	  "name": "this is a new hash"
+	}
+    }
+}
